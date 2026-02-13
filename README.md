@@ -253,8 +253,6 @@ This implementation is for educational and research purposes. For production use
 
 For questions or support:
 - Open an issue on GitHub
-- Email: [your-email@domain.com]
-- Join our Discord community: [link]
 
 ---
 
